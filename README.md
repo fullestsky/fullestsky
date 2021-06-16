@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fullestsky
 - 👀 I’m interested in cyber Security
-- 🌱 I’m currently learning Concepts of Networking
+- 🌱 I’m currently learning Concepts of Networking, Operating Systems
 - 📫 Reach me at shahjay498@gmail.com
