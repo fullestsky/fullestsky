@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fullestsky
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Concepts of LLMs, Applied AI, Math essentials for AI
-- 📫 Reach me at shahjay498@gmail.com
+- 📫 Reach me at shahjay498ex@gmail.com
